@@ -1,3 +1,3 @@
 # Stormhacks-2025-Star-Painter
-Repository for CV and flight controller code for Star Painter, a light painting drone.
-FC code is written in python and run on a Rasberry Pi Pico W.
+Repository for CV and flight controller code used for Star Painter, a light painting drone.
+FC code is modified from https://github.com/anish-natekar/PicoW_Copter/tree/main and runs on a Rasberry Pi Pico W.
